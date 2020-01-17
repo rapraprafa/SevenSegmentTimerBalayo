@@ -52,7 +52,7 @@ Partial Class SevenSegmentTimerBalayo
         Me.Button2.Enabled = False
         Me.Button2.Location = New System.Drawing.Point(46, 31)
         Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(27, 93)
+        Me.Button2.Size = New System.Drawing.Size(27, 96)
         Me.Button2.TabIndex = 1
         Me.Button2.UseVisualStyleBackColor = True
         '
@@ -61,25 +61,25 @@ Partial Class SevenSegmentTimerBalayo
         Me.Button3.Enabled = False
         Me.Button3.Location = New System.Drawing.Point(192, 31)
         Me.Button3.Name = "Button3"
-        Me.Button3.Size = New System.Drawing.Size(27, 93)
+        Me.Button3.Size = New System.Drawing.Size(27, 96)
         Me.Button3.TabIndex = 2
         Me.Button3.UseVisualStyleBackColor = True
         '
         'Button4
         '
         Me.Button4.Enabled = False
-        Me.Button4.Location = New System.Drawing.Point(192, 130)
+        Me.Button4.Location = New System.Drawing.Point(192, 127)
         Me.Button4.Name = "Button4"
-        Me.Button4.Size = New System.Drawing.Size(27, 93)
+        Me.Button4.Size = New System.Drawing.Size(27, 96)
         Me.Button4.TabIndex = 3
         Me.Button4.UseVisualStyleBackColor = True
         '
         'Button5
         '
         Me.Button5.Enabled = False
-        Me.Button5.Location = New System.Drawing.Point(46, 130)
+        Me.Button5.Location = New System.Drawing.Point(46, 127)
         Me.Button5.Name = "Button5"
-        Me.Button5.Size = New System.Drawing.Size(27, 93)
+        Me.Button5.Size = New System.Drawing.Size(27, 96)
         Me.Button5.TabIndex = 4
         Me.Button5.UseVisualStyleBackColor = True
         '
